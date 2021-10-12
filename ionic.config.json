@@ -1,0 +1,7 @@
+{
+  "name": "a04-lista-compras-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
