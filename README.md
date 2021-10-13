@@ -11,3 +11,6 @@
 
 <b>Bônus:</b> Verificação de itens duplicados na lista.
 
+Print da tela em Android e iOS:
+![screenshot](https://github.com/Quost/lista-compras-ionic/blob/master/src/assets/screenshot.png "Print da tela em Android e iOS")
+
